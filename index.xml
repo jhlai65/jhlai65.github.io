@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JHLAI65</title>
+    <link>https://jhlai65.github.io/</link>
+    <description>Recent content on JHLAI65</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Aug 2022 21:23:58 +0800</lastBuildDate><atom:link href="https://jhlai65.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 01 Hello Hugo</title>
+      <link>https://jhlai65.github.io/triathlon/day-01-hello-hugo/</link>
+      <pubDate>Fri, 19 Aug 2022 21:23:58 +0800</pubDate>
+      
+      <guid>https://jhlai65.github.io/triathlon/day-01-hello-hugo/</guid>
+      <description>Day nn. {title} 前言 write something cool&amp;hellip;
+主要內容 write something cool&amp;hellip;
+小結 write something cool&amp;hellip;
+參考連結 </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://jhlai65.github.io/2022/08/my-first-post/</link>
+      <pubDate>Fri, 19 Aug 2022 20:16:55 +0800</pubDate>
+      
+      <guid>https://jhlai65.github.io/2022/08/my-first-post/</guid>
+      <description>這是首頁大標題 H1 次標題 H2 Alt-H1 Alt-H2 </description>
+    </item>
+    
+  </channel>
+</rss>
